@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-c0qz2c0u9ky69v8@27o54t&7l3l0(^*0tedzop8&+z%fii(tx#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lunarocapital.live', 'www.lunarocapital.live', 'lunarocapital-qcrq.onrender.com']
+ALLOWED_HOSTS = ['lunarocapital.live', 'www.lunarocapital.live', 'lunarocapital.onrender.com']
 
 AUTH_USER_MODEL = 'invest.User'
 
